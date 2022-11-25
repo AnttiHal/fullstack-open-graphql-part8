@@ -1,0 +1,11 @@
+{
+  "name": "fullstack-open-graphql-part8",
+  "version": "1.0.0",
+  "description": "submit repo for fullstack open module graphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antti Halmetoja",
+  "license": "ISC"
+}
